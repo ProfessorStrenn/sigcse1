@@ -1,9 +1,12 @@
 # sigcse1
 
-test at sigcse
+Course Outline
+
 * Lists
 * Queues
 * Stacks
 * Trees
 * Sorts
 * Graphs
+
+:computer:  
